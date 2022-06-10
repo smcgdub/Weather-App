@@ -10,4 +10,13 @@
 
 body {
   font-family: 'Manrope', sans-serif;
+  background-image: url('https://source.unsplash.com/random/1600×900/?weather');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.card {
+  opacity: 75%;
 }
