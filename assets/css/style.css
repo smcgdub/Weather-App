@@ -41,3 +41,7 @@ input.search-bar {
 button.btn.search_button {
   padding-left: 0px;
 }
+
+.description {
+  text-transform: capitalize;
+}
